@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoituan_tech=self.webpackChunkkhoituan_tech||[]).push([[4248],{6559:function(e,t,n){n.r(t);var u=n(7294);t.default=function(){var e=(0,u.useState)(0),t=e[0],n=e[1];return u.createElement(u.Fragment,null,u.createElement("div",null,"Count: ",t),u.createElement("button",{onClick:function(){return n((function(e){return e+1}))}},"Add"))}}}]);
