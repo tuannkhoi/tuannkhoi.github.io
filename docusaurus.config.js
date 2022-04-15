@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Khoi Tuan",
-  tagline: "Dinosaurs are quite cool",
+  tagline: "This is Khoi Tuan",
   url: "https://tuannkhoi.github.io",
   baseUrl: "/",
   onBrokenLinks: "log",
