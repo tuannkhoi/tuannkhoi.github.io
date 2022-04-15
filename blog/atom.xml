@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tuannkhoi.github.io/blog</id>
-    <title>Khoi Tuan blog Blog</title>
+    <title>Khoi Tuan Blog</title>
     <updated>2022-04-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tuannkhoi.github.io/blog"/>
-    <subtitle>Khoi Tuan blog Blog</subtitle>
+    <subtitle>Khoi Tuan Blog</subtitle>
     <icon>https://tuannkhoi.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Greetings!]]></title>
