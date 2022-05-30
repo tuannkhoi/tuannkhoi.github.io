@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkhoituan_tech=self.webpackChunkkhoituan_tech||[]).push([[713],{3457:function(a){a.exports=JSON.parse('{"learning":{"allTagsPath":"/blog/tags","name":"learning","count":1,"permalink":"/blog/tags/learning"}}')}}]);
