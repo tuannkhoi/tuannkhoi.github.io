@@ -12,13 +12,6 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <p className="hero__subtitle">
-          At the moment, I'm learning system design and writing blog about it.
-        </p>
-        <p className="hero__subtitle">
-          I'm always finding cool things to write about, shoot me an email if
-          you have any suggestion 😃
-        </p>
       </div>
     </header>
   );
